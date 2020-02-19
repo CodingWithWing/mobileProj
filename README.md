@@ -1,2 +1,1 @@
-# mobileProj
-Training story
+# MobileTrainPrj01
